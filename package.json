@@ -1,5 +1,5 @@
 {
-	"name": "Job Board-Remoteok",
+	"name": "job-board-remoteok",
 	"version": "1.0.0",
 	"description": "Building a job board with `RemoteOk` API. With this, I will fetch data from there and design the jobs section",
 	"main": "index.js",
